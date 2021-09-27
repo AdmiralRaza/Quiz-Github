@@ -1,0 +1,19 @@
+<resources>
+    <!--All the string resources come here including Questions and title -->
+    <string name="app_name">Hvor godt vet du om LoL?</string>
+    <string name="correct"><b>CORRECTNESS IS</b> \n
+						<b>%1$d</b> OUT OF 6</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="a">Amumu har 2 stuns på sin Q.</string>
+    <string name="b">Jhin har 5 bullets i sin pistol.</string>
+    <string name="c">League ble laget i 2005.</string>
+    <string name="d">Gjør Amumu magic damage?</string>
+    <string name="e">Heter den siste dragen Elden Drake?</string>
+    <string name="f">Har nexus 2 towers rundt den?</string>
+    <string name="next_text">next</string>
+    <string name="prev_text">previous</string>
+
+</resources>
